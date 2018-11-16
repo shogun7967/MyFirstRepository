@@ -10,5 +10,6 @@ public class AddTwoNumbers {
        System.out.println("Enter Second No....");
        no2=in.nextInt();
        System.out.println("Addition is : "+(no1+no2));
+       System.out.println("Thank you ... Newly Added the line");
        
     }
